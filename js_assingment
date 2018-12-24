@@ -1,0 +1,15 @@
+1. Write a JavaScript program to check whether a matrix is a diagonal matrix or not. In linear algebra, a diagonal matrix is a matrix in which the entries outside the main diagonal are all zero (the diagonal from the upper left to the lower right).
+
+2.Write a JavaScript program to create a new string without the first and last character of a given string.
+
+3.Write a JavaScript program to check if a given matrix is an identity matrix.
+Note: In linear algebra, the identity matrix, or sometimes ambiguously called a unit matrix, of size n is the n ? n square matrix with ones on the main diagonal and zeros elsewhere.
+[[1, 0, 0], [0, 1, 0], [0, 0, 1]] -> true
+[[1, 0, 0], [0, 1, 0], [1, 0, 1]] -> false
+
+
+4.Write a JavaScript program to check if a given integer has an increasing digits sequence.
+
+5.Write a JavaScript program to check if 1 appears in first or last position of a given array of integers. The array length must be greater or equal to 1. 
+
+Note*You no need to take any input from outside jsut set in one variable and use 
